@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\UserK\Desktop\cppProject2025\toyproject 1\main.cpp(22,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\UserK\Desktop\cppProject2025\toyproject 1\main.cpp(22,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  toyproject 1.vcxproj -> C:\Users\UserK\Desktop\cppProject2025\Projectcpp\x64\Debug\toyproject 1.exe
