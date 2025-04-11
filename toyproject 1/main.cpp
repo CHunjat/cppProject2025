@@ -11,17 +11,59 @@
 * 2. 이름공간에 쓰여진 이름을 통해서 코드를 분류할 수 있다.
 */
 
+/*
+* 플레이어의 이동을 참조자를 사용하여 함수화 해보기
+*/
 
 #include <iostream>
 #include <Windows.h> //커서의 위치를 옮기는 함수 setcursorposition
 #include <conio.h>
+
 namespace ConsoleUtils
 {
 	void GoToXY(int X, int Y)
 	{
 		COORD pos = { X,Y };
 		SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
+	}
 
+	void InputPlayerKey(int& X, int& Y) //참조자 사용!!
+	{
+		if (_kbhit())
+		{
+			if (GetAsyncKeyState(VK_LEFT)) // 키보드 '<-' 눌렀을때
+			{
+				X--;
+				if (X < 0)
+				{
+					X = 0;
+				}
+			}
+			else if (GetAsyncKeyState(VK_RIGHT))
+			{
+				X++;
+				if (X > 30)
+				{
+					X = 30;
+				}
+			}
+			else if (GetAsyncKeyState(VK_UP))
+			{
+				Y--;
+				if (Y > 0)
+				{
+					Y = 0;
+				}
+			}
+			else if (GetAsyncKeyState(VK_DOWN))
+			{
+				Y++;
+				if (Y > 30)
+				{
+					Y = 30;
+				}
+			}
+		}
 	}
 
 }
@@ -29,7 +71,7 @@ namespace ConsoleUtils
 int main()
 {
 	// 예제 1. 10,10 좌표에 플레이어의 정보 텍스트를 출력해보세요.
-	ConsoleUtils::GoToXY(1, 1);
+	ConsoleUtils::GoToXY(2, 2);
 	std::cout << "플레이어의 정보" << std::endl;
 
 	// 예제 2. 플레이어의 이름을 입력받아서 플레이어의 정보 텍스트 한줄 아래에 출력해주세요 
@@ -42,7 +84,7 @@ int main()
 	{
 		int inputNumber = 0;
 
-		std::cout << "1_사용자의 이름을 변경할 수 있습니다. 2_ 플레이어의 정보를 화면에 출력합니다. 3_3번을 누르면 게임을 종료합니다." << std::endl;
+		std::cout << "1_사용자의 이름을 변경할 수 있습니다. 2_ 플레이어의 정보를 화면에 출력합니다." << std::endl;
 		std::cin >> inputNumber; //언제 주소 연산자 사용하고, 언제 안하는데 이부분이 이해가 안감.
 		if (inputNumber == 1)
 		{
@@ -57,11 +99,22 @@ int main()
 			std::cout << "플레이어의 이름:" << name;
 			_getch();
 		}
-		else if (inputNumber == 3)
+		else
 		{
 			break;
 		}
+
 		system("cls");
 		
+	}
+
+	int X = 0, Y = 0;
+	while (true) //플레이어의 이동 구현
+	{
+		
+		ConsoleUtils::InputPlayerKey(X, Y);
+		std::cout << "플레이어의 좌표 : " << "[" << X << " , " << Y << "]" << std::endl;
+		ConsoleUtils::GoToXY(X, Y);
+		std::cout << "마마";
 	}
 }

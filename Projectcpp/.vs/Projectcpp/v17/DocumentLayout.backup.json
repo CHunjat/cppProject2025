@@ -6,11 +6,8 @@
       "AbsoluteMoniker": "D:0:0:{0680CE69-A201-4E70-B32A-BE4A2A069A68}|..\\toyproject 1\\toyproject 1.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\toyproject 1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A83CB860-9BE2-41C1-A7A4-EA33893ACB90}|..\\ch1\\ch1.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\ch1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C177E7-BB91-4F88-86CD-C2B1B270EDAB}|Projectcpp.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\Projectcpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4C177E7-BB91-4F88-86CD-C2B1B270EDAB}|Projectcpp.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3E98497D-ED76-4924-AA93-5BEB6C88A74C}|ch.2\\ch.2.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\Projectcpp\\ch.2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E98497D-ED76-4924-AA93-5BEB6C88A74C}|ch.2\\ch.2.vcxproj|solutionrelative:ch.2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,35 +31,22 @@
               "RelativeDocumentMoniker": "..\\toyproject 1\\main.cpp",
               "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\toyproject 1\\main.cpp",
               "RelativeToolTip": "..\\toyproject 1\\main.cpp",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T08:19:02.574Z",
+              "WhenOpened": "2025-04-11T08:00:28.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\ch1\\main.cpp",
-              "RelativeDocumentMoniker": "..\\ch1\\main.cpp",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\ch1\\main.cpp",
-              "RelativeToolTip": "..\\ch1\\main.cpp",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Projectcpp\\ch.2\\main.cpp",
+              "RelativeDocumentMoniker": "ch.2\\main.cpp",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Projectcpp\\ch.2\\main.cpp",
+              "RelativeToolTip": "ch.2\\main.cpp",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIwAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T07:41:43.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Projectcpp\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Projectcpp\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T07:12:13.016Z",
+              "WhenOpened": "2025-04-11T07:06:16.393Z",
               "EditorCaption": ""
             }
           ]
