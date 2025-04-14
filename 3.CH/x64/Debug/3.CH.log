@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\UserK\Desktop\cppProject2025\3.CH\main.cpp(59,1): warning C4172: 지역 변수 또는 임시 : num의 주소를 반환하는 중
+  3.CH.vcxproj -> C:\Users\UserK\Desktop\cppProject2025\Projectcpp\x64\Debug\3.CH.exe
