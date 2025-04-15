@@ -78,6 +78,7 @@ struct Item
 	// char name[20]; std::string 이름의 크기를 자동으로 할당해준다.
 	std::string name;  
 	int price;
+	int attackPower;
 };
 
 // Item 구조체의 참조자를 받아와서 이름을 원하는 이름으로 변경하고 가격을 원하는 가격으로 설정하는 함수 만든다.
@@ -90,10 +91,11 @@ void MySetItem()
 
 }
 
-void SetItem(Item& item, const std::string nName, int price)
+void SetItem(Item& item, const std::string nName, int price, int attackPower)
 {
 	item.name = nName; // 외부에서 가져온 item을 nName으로 설정해준다.
 	item.price = price;
+	item.attackPower = attackPower;
 }
 
 void SetItem(Item& SetItem, const Item& copyItem)  // ShopItem항목, 
