@@ -75,6 +75,7 @@ struct Item
 	//char name[20]; std::string 이름의 크기를 자동으로 할당해준다.
 	std::string name; 
 	int price; 
+	
 };
 
 // Item 구조체의 참조자를 받아와서 이름을 원하는 이름으로 변경하고 가격을 원하는 가격으로 설정하는 함수
