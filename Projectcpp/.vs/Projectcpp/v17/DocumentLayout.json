@@ -3,31 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Projectcpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B96F57D8-77B9-44FA-BCD6-1EBAB89098AA}|..\\CH.5\\CH.5.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.5\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CEB3A075-8C7C-4629-9523-40C9F54A1404}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Enermy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B96F57D8-77B9-44FA-BCD6-1EBAB89098AA}|..\\CH.5\\CH.5.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.5\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CEB3A075-8C7C-4629-9523-40C9F54A1404}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Enermy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B96F57D8-77B9-44FA-BCD6-1EBAB89098AA}|..\\CH.5\\CH.5.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CEB3A075-8C7C-4629-9523-40C9F54A1404}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B96F57D8-77B9-44FA-BCD6-1EBAB89098AA}|..\\CH.5\\CH.5.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.5\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CEB3A075-8C7C-4629-9523-40C9F54A1404}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7D45B8-39C0-46D6-80F9-52F6EE9C4EE4}|..\\CH.4\\CH.4.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CEB3A075-8C7C-4629-9523-40C9F54A1404}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7D45B8-39C0-46D6-80F9-52F6EE9C4EE4}|..\\CH.4\\CH.4.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CEB3A075-8C7C-4629-9523-40C9F54A1404}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D7D45B8-39C0-46D6-80F9-52F6EE9C4EE4}|..\\CH.4\\CH.4.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7D45B8-39C0-46D6-80F9-52F6EE9C4EE4}|..\\CH.4\\CH.4.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D7D45B8-39C0-46D6-80F9-52F6EE9C4EE4}|..\\CH.4\\CH.4.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CEB3A075-8C7C-4629-9523-40C9F54A1404}|..\\BattleSystem\\BattleSystem.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,7 +31,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,140 +39,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Person.cpp",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.5\\Person.cpp",
-              "RelativeDocumentMoniker": "..\\CH.5\\Person.cpp",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.5\\Person.cpp",
-              "RelativeToolTip": "..\\CH.5\\Person.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Common.cpp",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Common.cpp",
+              "RelativeDocumentMoniker": "..\\BattleSystem\\Common.cpp",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Common.cpp",
+              "RelativeToolTip": "..\\BattleSystem\\Common.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-16T09:58:38.54Z",
+              "WhenOpened": "2025-04-17T08:03:26.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Person.h",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.5\\Person.h",
-              "RelativeDocumentMoniker": "..\\CH.5\\Person.h",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.5\\Person.h",
-              "RelativeToolTip": "..\\CH.5\\Person.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-16T07:25:26.387Z",
+              "Title": "Enermy.cpp",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Enermy.cpp",
+              "RelativeDocumentMoniker": "..\\BattleSystem\\Enermy.cpp",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Enermy.cpp",
+              "RelativeToolTip": "..\\BattleSystem\\Enermy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T07:44:01.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Image.cpp",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Image.cpp",
+              "RelativeDocumentMoniker": "..\\BattleSystem\\Image.cpp",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Image.cpp",
+              "RelativeToolTip": "..\\BattleSystem\\Image.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T07:33:43.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Common.h",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.5\\Common.h",
-              "RelativeDocumentMoniker": "..\\CH.5\\Common.h",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.5\\Common.h",
-              "RelativeToolTip": "..\\CH.5\\Common.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Title": "Image.h",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Image.h",
+              "RelativeDocumentMoniker": "..\\BattleSystem\\Image.h",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Image.h",
+              "RelativeToolTip": "..\\BattleSystem\\Image.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-16T07:02:41.638Z",
+              "WhenOpened": "2025-04-17T07:31:36.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enermy.h",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Enermy.h",
+              "RelativeDocumentMoniker": "..\\BattleSystem\\Enermy.h",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Enermy.h",
+              "RelativeToolTip": "..\\BattleSystem\\Enermy.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-17T07:18:08.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Common.h",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Common.h",
+              "RelativeDocumentMoniker": "..\\BattleSystem\\Common.h",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\Common.h",
+              "RelativeToolTip": "..\\BattleSystem\\Common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-17T07:05:43.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.5\\main.cpp",
-              "RelativeDocumentMoniker": "..\\CH.5\\main.cpp",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.5\\main.cpp",
-              "RelativeToolTip": "..\\CH.5\\main.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAvwDoAAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\main.cpp",
+              "RelativeDocumentMoniker": "..\\BattleSystem\\main.cpp",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\BattleSystem\\main.cpp",
+              "RelativeToolTip": "..\\BattleSystem\\main.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-16T07:01:22.64Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "5affcf88-7ee3-4522-8566-2a16a8c3cd74",
-        "Display": 1,
-        "X": 175,
-        "Y": 65,
-        "Width": 1670,
-        "Height": 982,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Item.h",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\Item.h",
-              "RelativeDocumentMoniker": "..\\CH.4\\Item.h",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\Item.h",
-              "RelativeToolTip": "..\\CH.4\\Item.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-16T09:51:38.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Item.cpp",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\Item.cpp",
-              "RelativeDocumentMoniker": "..\\CH.4\\Item.cpp",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\Item.cpp",
-              "RelativeToolTip": "..\\CH.4\\Item.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-16T08:47:02.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\main.cpp",
-              "RelativeDocumentMoniker": "..\\CH.4\\main.cpp",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\main.cpp",
-              "RelativeToolTip": "..\\CH.4\\main.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-16T08:55:08.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\Player.h",
-              "RelativeDocumentMoniker": "..\\CH.4\\Player.h",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\Player.h",
-              "RelativeToolTip": "..\\CH.4\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-16T09:01:06.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\Player.cpp",
-              "RelativeDocumentMoniker": "..\\CH.4\\Player.cpp",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\CH.4\\Player.cpp",
-              "RelativeToolTip": "..\\CH.4\\Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-16T09:01:06.275Z",
+              "WhenOpened": "2025-04-17T07:02:35.255Z",
               "EditorCaption": ""
             }
           ]
