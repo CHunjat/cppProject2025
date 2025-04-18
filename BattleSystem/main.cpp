@@ -19,34 +19,32 @@
 * 공격을 받았다. 포션을 먹는다.
 */
 
-#include "Enermy.h"
+#include "GameManager.h"
+
+/*
+*  enemy 객체
+*  GameManager 객체
+*/
+
+
+
+/*
+* 적군이 어떤 조건일 때 slimeIdle이어야 하는가
+* ''                    slimeMove이어야 하는가.
+* ''                    slimeBattle이어야 하는가.
+*/
 
 int main()
 {
-	Enermy Slime(100, 10, 1, "슬라임", slimeMove); // 슬라임이라는 몬스터 객체생성
+	
 
-	int slimex = 30;
-	int slimey = 5;
-
-	_getch();
-
-	/*
-	* 적군이 어떤 조건일 때 slimeIdle이어야 하는가
-	* ''                    slimeMove이어야 하는가.
-	* ''                    slimeBattle이어야 하는가.
-	*/
+	Enemy Slime(100, 10, 1, "슬라임", slimeMove); // 슬라임이라는 몬스터 객체생성
+	Player player(100, 10, 1, "전사", PlayerIdle);
+	GameManager Game(Slime,player);
 
 
-	while (true)
-	{
-		
-		Slime.SetBattleImage(slimeIdle, slimex, slimey);
-		Sleep(500);
-		system("cls");
-		Slime.SetBattleImage(slimeMove, slimex, slimey);
-		Sleep(500);
-		system("cls");
 
 
-	}
+	Game.GameLoop();
+
 }

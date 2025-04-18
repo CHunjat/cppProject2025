@@ -1,5 +1,7 @@
 #include "Common.h"
 
+
+
 void GoToXY(int x, int y)
 {
 	COORD pos = { x,y };
