@@ -39,3 +39,42 @@ char SlimeMove[IMAGEHEIGHT][IMAGEWIDTH + 1] =
 	{"          "},
 	{"          "}
 };
+char PlayerIDLE[IMAGEHEIGHT][IMAGEWIDTH + 1] =
+{
+	{"          "},
+	{"          "},
+	{"          "},
+	{"   し   "},
+	{"   で    "},
+	{"   さ    "},
+	{"          "},
+	{"          "},
+	{"          "},
+	{"          "}
+};
+char PlayerBattle[IMAGEHEIGHT][IMAGEWIDTH + 1] =
+{
+	{"          "},
+	{"          "},
+	{"         "},
+	{"   し|| "},
+	{"   で||  "},
+	{"   さ    "},
+	{"          "},
+	{"          "},
+	{"          "},
+	{"          "}
+};
+char PlayerMove[IMAGEHEIGHT][IMAGEWIDTH + 1] =
+{
+	{"          "},
+	{"          "},
+	{"          "},
+	{"   し   "},
+	{"   で    "},
+	{"   ||   "},
+	{"          "},
+	{"          "},
+	{"          "},
+	{"          "}
+};
