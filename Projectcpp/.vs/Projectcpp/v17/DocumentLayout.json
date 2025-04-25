@@ -3,52 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Projectcpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E564F688-BD7C-41F1-8EC0-3B1C73F97398}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6E49575A-82FC-423E-9F61-EACF3D20A700}|..\\Stracraft\\Stracraft.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\RandomUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E564F688-BD7C-41F1-8EC0-3B1C73F97398}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6E49575A-82FC-423E-9F61-EACF3D20A700}|..\\Stracraft\\Stracraft.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\RandomUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E564F688-BD7C-41F1-8EC0-3B1C73F97398}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6E49575A-82FC-423E-9F61-EACF3D20A700}|..\\Stracraft\\Stracraft.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Unit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E564F688-BD7C-41F1-8EC0-3B1C73F97398}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Note.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6E49575A-82FC-423E-9F61-EACF3D20A700}|..\\Stracraft\\Stracraft.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E564F688-BD7C-41F1-8EC0-3B1C73F97398}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\MonsterHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6E49575A-82FC-423E-9F61-EACF3D20A700}|..\\Stracraft\\Stracraft.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Constructor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E564F688-BD7C-41F1-8EC0-3B1C73F97398}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Synergy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6E49575A-82FC-423E-9F61-EACF3D20A700}|..\\Stracraft\\Stracraft.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Unit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E564F688-BD7C-41F1-8EC0-3B1C73F97398}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E564F688-BD7C-41F1-8EC0-3B1C73F97398}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E564F688-BD7C-41F1-8EC0-3B1C73F97398}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Hero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E564F688-BD7C-41F1-8EC0-3B1C73F97398}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\GameSynergy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E564F688-BD7C-41F1-8EC0-3B1C73F97398}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Synergy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E564F688-BD7C-41F1-8EC0-3B1C73F97398}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\GameSynergy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E564F688-BD7C-41F1-8EC0-3B1C73F97398}|..\\Ch9\\Ch9.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\MonsterHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BF1C89B-22EE-434B-BA9D-12CE253612D8}|..\\Ch8\\Ch8.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BF1C89B-22EE-434B-BA9D-12CE253612D8}|..\\Ch8\\Ch8.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch8\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BF1C89B-22EE-434B-BA9D-12CE253612D8}|..\\Ch8\\Ch8.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch8\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6E49575A-82FC-423E-9F61-EACF3D20A700}|..\\Stracraft\\Stracraft.vcxproj|C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,8 +30,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "DockedWidth": 282,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,215 +56,98 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Weapon.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Weapon.cpp",
-              "RelativeDocumentMoniker": "..\\Ch9\\Weapon.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Weapon.cpp",
-              "RelativeToolTip": "..\\Ch9\\Weapon.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Title": "RandomUtil.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\RandomUtil.cpp",
+              "RelativeDocumentMoniker": "..\\Stracraft\\RandomUtil.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\RandomUtil.cpp",
+              "RelativeToolTip": "..\\Stracraft\\RandomUtil.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T08:48:41.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Note.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Note.h",
-              "RelativeDocumentMoniker": "..\\Ch9\\Note.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Note.h",
-              "RelativeToolTip": "..\\Ch9\\Note.h",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T08:43:14.336Z",
+              "WhenOpened": "2025-04-25T08:33:33.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Weapon.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Weapon.h",
-              "RelativeDocumentMoniker": "..\\Ch9\\Weapon.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Weapon.h",
-              "RelativeToolTip": "..\\Ch9\\Weapon.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Title": "RandomUtil.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\RandomUtil.h",
+              "RelativeDocumentMoniker": "..\\Stracraft\\RandomUtil.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\RandomUtil.h",
+              "RelativeToolTip": "..\\Stracraft\\RandomUtil.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T08:31:34.569Z",
+              "WhenOpened": "2025-04-25T08:29:18.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Hero.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Hero.h",
-              "RelativeDocumentMoniker": "..\\Ch9\\Hero.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Hero.h",
-              "RelativeToolTip": "..\\Ch9\\Hero.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T08:09:03.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Synergy.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Synergy.cpp",
-              "RelativeDocumentMoniker": "..\\Ch9\\Synergy.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Synergy.cpp",
-              "RelativeToolTip": "..\\Ch9\\Synergy.cpp",
+              "DocumentIndex": 3,
+              "Title": "Constructor.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Constructor.cpp",
+              "RelativeDocumentMoniker": "..\\Stracraft\\Constructor.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Constructor.cpp",
+              "RelativeToolTip": "..\\Stracraft\\Constructor.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T08:07:49.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Synergy.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Synergy.h",
-              "RelativeDocumentMoniker": "..\\Ch9\\Synergy.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Synergy.h",
-              "RelativeToolTip": "..\\Ch9\\Synergy.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T08:07:27.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GameSynergy.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\GameSynergy.cpp",
-              "RelativeDocumentMoniker": "..\\Ch9\\GameSynergy.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\GameSynergy.cpp",
-              "RelativeToolTip": "..\\Ch9\\GameSynergy.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T08:06:32.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GameSynergy.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\GameSynergy.h",
-              "RelativeDocumentMoniker": "..\\Ch9\\GameSynergy.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\GameSynergy.h",
-              "RelativeToolTip": "..\\Ch9\\GameSynergy.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T08:05:57.94Z",
+              "WhenOpened": "2025-04-25T08:16:03.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Monster.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Monster.h",
-              "RelativeDocumentMoniker": "..\\Ch9\\Monster.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Monster.h",
-              "RelativeToolTip": "..\\Ch9\\Monster.h",
-              "ViewState": "AQIAADAAAAAAAAAAAAAjwCwAAAANAAAA",
+              "Title": "Common.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Common.h",
+              "RelativeDocumentMoniker": "..\\Stracraft\\Common.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Common.h",
+              "RelativeToolTip": "..\\Stracraft\\Common.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T07:06:24.518Z",
+              "WhenOpened": "2025-04-25T08:15:34.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Unit.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Unit.cpp",
+              "RelativeDocumentMoniker": "..\\Stracraft\\Unit.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Unit.cpp",
+              "RelativeToolTip": "..\\Stracraft\\Unit.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T08:15:26.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MonsterHandler.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\MonsterHandler.h",
-              "RelativeDocumentMoniker": "..\\Ch9\\MonsterHandler.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\MonsterHandler.h",
-              "RelativeToolTip": "..\\Ch9\\MonsterHandler.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Title": "Constructor.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Constructor.h",
+              "RelativeDocumentMoniker": "..\\Stracraft\\Constructor.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Constructor.h",
+              "RelativeToolTip": "..\\Stracraft\\Constructor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T07:06:04.953Z",
+              "WhenOpened": "2025-04-25T08:15:24.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\main.cpp",
-              "RelativeDocumentMoniker": "..\\Ch9\\main.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\main.cpp",
-              "RelativeToolTip": "..\\Ch9\\main.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T07:05:21.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MonsterHandler.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\MonsterHandler.cpp",
-              "RelativeDocumentMoniker": "..\\Ch9\\MonsterHandler.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\MonsterHandler.cpp",
-              "RelativeToolTip": "..\\Ch9\\MonsterHandler.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T07:38:55.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Monster.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch8\\Monster.cpp",
-              "RelativeDocumentMoniker": "..\\Ch8\\Monster.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch8\\Monster.cpp",
-              "RelativeToolTip": "..\\Ch8\\Monster.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T07:54:46.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Monster.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch8\\Monster.h",
-              "RelativeDocumentMoniker": "..\\Ch8\\Monster.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch8\\Monster.h",
-              "RelativeToolTip": "..\\Ch8\\Monster.h",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAD8AAAAXAAAA",
+              "Title": "Unit.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Unit.h",
+              "RelativeDocumentMoniker": "..\\Stracraft\\Unit.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Stracraft\\Unit.h",
+              "RelativeToolTip": "..\\Stracraft\\Unit.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T07:54:48.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Monster.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Monster.cpp",
-              "RelativeDocumentMoniker": "..\\Ch9\\Monster.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch9\\Monster.cpp",
-              "RelativeToolTip": "..\\Ch9\\Monster.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T07:05:21.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch8\\main.cpp",
-              "RelativeDocumentMoniker": "..\\Ch8\\main.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppProject2025\\Ch8\\main.cpp",
-              "RelativeToolTip": "..\\Ch8\\main.cpp",
-              "ViewState": "AQIAADYAAAAAAAAAAADwv0gAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T07:54:55.627Z",
+              "WhenOpened": "2025-04-25T08:15:24.153Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 19,
+          "DockedWidth": 220,
           "SelectedChildIndex": -1,
           "Children": [
             {
