@@ -1,4 +1,15 @@
 ﻿  main.cpp
 C:\Users\Administrator\Desktop\cppProject2025\ToyProject1\main.cpp(29,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
 C:\Users\Administrator\Desktop\cppProject2025\ToyProject1\main.cpp(29,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-  ToyProject1.vcxproj -> C:\Users\Administrator\Desktop\cppProject2025\Projectcpp\x64\Debug\ToyProject1.exe
+C:\Users\Administrator\Desktop\cppProject2025\ToyProject1\main.cpp(155,2): error C2661: 'SetItem': 오버로드된 함수에서 3개의 인수를 사용하지 않습니다.
+  C:\Users\Administrator\Desktop\cppProject2025\ToyProject1\main.cpp(155,2):
+  인수 목록 '(Item, const char [6], int)'을(를) 일치시키는 동안
+  
+C:\Users\Administrator\Desktop\cppProject2025\ToyProject1\main.cpp(156,2): error C2661: 'SetItem': 오버로드된 함수에서 3개의 인수를 사용하지 않습니다.
+  C:\Users\Administrator\Desktop\cppProject2025\ToyProject1\main.cpp(156,2):
+  인수 목록 '(Item, const char [7], int)'을(를) 일치시키는 동안
+  
+C:\Users\Administrator\Desktop\cppProject2025\ToyProject1\main.cpp(157,2): error C2661: 'SetItem': 오버로드된 함수에서 3개의 인수를 사용하지 않습니다.
+  C:\Users\Administrator\Desktop\cppProject2025\ToyProject1\main.cpp(157,2):
+  인수 목록 '(Item, const char [6], int)'을(를) 일치시키는 동안
+  
