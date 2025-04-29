@@ -22,7 +22,7 @@ void ClassDefaultInfo()
 * 	4
 *   ------------------------
 */
-
+  
 #include "Runner.h"
 int main()
 {
@@ -30,9 +30,13 @@ int main()
 	system("cls");
 	std::cout << "달리기 게임 코드" << std::endl;	// Game Title
 
+	// 사운드를 출력해주는 기능을 작성
+   // SoundUtil::PlayerTitleSound1(_T("BGM.wav"));
+	SoundUtil::PlayBGM1(_T("sound.wav"));
+
 	Runner* runA = new Player();
 	Runner* runB = new Runner("B");
-	Runner* runC = new Runner();
+	Runner* runC = new Enemy();
 	Runner* runD = new Runner("D");
 	
 	string line = "===============================================================================";
@@ -41,7 +45,7 @@ int main()
 
 	while (true)
 	{
-		Sleep(1000);   // 1초 마다 게임을 업데이트
+		Sleep(200);   // 1초 마다 게임을 업데이트
 		system("cls"); // 화면을 지운다.
 
 		cout << line << endl;
@@ -63,7 +67,7 @@ int main()
 
 	if (runA->CheckEndLine(endline))
 	{
-		cout << "A가 1등을 했습니다." << endl;
+		cout << "P가 1등을 했습니다." << endl;
 	}
 
 	if (runB->CheckEndLine(endline))
@@ -73,7 +77,7 @@ int main()
 
 	if (runC->CheckEndLine(endline))
 	{
-		cout << "C가 1등을 했습니다." << endl;
+		cout << "E가 1등을 했습니다." << endl;
 	}
 
 	if (runD->CheckEndLine(endline))
