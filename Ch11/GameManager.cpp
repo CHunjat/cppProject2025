@@ -6,7 +6,7 @@ void GameManager::ShowTitle()
 	// 타이틀 먼저 보여주는 코드 실행.
 	//ConsoleUtil::GotoXY(0, 0);
 	cout << " 제목 실행 " << endl;
-	//SoundUtil::PlayerTitleSound1(_T("sound.wav")); // 사운드출력이 끝날때까지 다음코드로 넘어가지않음.
+	SoundUtil::PlayerTitleSound1(_T("sound.wav")); // 사운드출력이 끝날때까지 다음코드로 넘어가지않음.
 
 }
 
@@ -60,7 +60,7 @@ void GameManager::GamePhase()
 
 	while (true)
 	{
-		Sleep(200);   // 1초 마다 게임을 업데이트
+		Sleep(1000);   // 1초 마다 게임을 업데이트
 		system("cls"); // 화면을 지운다.
 
 		cout << line << endl;

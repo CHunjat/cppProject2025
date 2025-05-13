@@ -3,19 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Projectcpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2822D474-5C21-4557-A702-1019AA23194B}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{57F66E4D-4893-44B0-9F14-372D4A1F6C16}|..\\Terran\\Terran.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\Terran\\BarracksUnit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2822D474-5C21-4557-A702-1019AA23194B}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{57F66E4D-4893-44B0-9F14-372D4A1F6C16}|..\\Terran\\Terran.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\Terran\\BarracksUnit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2822D474-5C21-4557-A702-1019AA23194B}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\ImageModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{57F66E4D-4893-44B0-9F14-372D4A1F6C16}|..\\Terran\\Terran.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\Terran\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2822D474-5C21-4557-A702-1019AA23194B}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2822D474-5C21-4557-A702-1019AA23194B}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{57F66E4D-4893-44B0-9F14-372D4A1F6C16}|..\\Terran\\Terran.vcxproj|C:\\Users\\UserK\\Desktop\\cppProject2025\\Terran\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,8 +21,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 285,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,67 +30,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Actor.h",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\Actor.h",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\Actor.h",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\Actor.h",
-              "RelativeToolTip": "..\\StoryTelling\\Actor.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T08:14:13.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Image.h",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\Image.h",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\Image.h",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\Image.h",
-              "RelativeToolTip": "..\\StoryTelling\\Image.h",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T07:47:12.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ImageModel.h",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\ImageModel.h",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\ImageModel.h",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\ImageModel.h",
-              "RelativeToolTip": "..\\StoryTelling\\ImageModel.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T07:19:14.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Console.h",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\Console.h",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\Console.h",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\Console.h",
-              "RelativeToolTip": "..\\StoryTelling\\Console.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "Common.h",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Terran\\Common.h",
+              "RelativeDocumentMoniker": "..\\Terran\\Common.h",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Terran\\Common.h",
+              "RelativeToolTip": "..\\Terran\\Common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T07:08:13.733Z",
+              "WhenOpened": "2025-05-07T09:44:59.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\main.cpp",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\main.cpp",
-              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\StoryTelling\\main.cpp",
-              "RelativeToolTip": "..\\StoryTelling\\main.cpp",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwCQAAAAnAAAAAAAAAA==",
+              "Title": "BarracksUnit.h",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Terran\\BarracksUnit.h",
+              "RelativeDocumentMoniker": "..\\Terran\\BarracksUnit.h",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Terran\\BarracksUnit.h",
+              "RelativeToolTip": "..\\Terran\\BarracksUnit.h",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvyoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T09:44:58.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarracksUnit.cpp",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Terran\\BarracksUnit.cpp",
+              "RelativeDocumentMoniker": "..\\Terran\\BarracksUnit.cpp",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Terran\\BarracksUnit.cpp",
+              "RelativeToolTip": "..\\Terran\\BarracksUnit.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-06T07:06:21.124Z",
+              "WhenOpened": "2025-05-07T09:44:58.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Terran\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Terran\\main.cpp",
+              "ToolTip": "C:\\Users\\UserK\\Desktop\\cppProject2025\\Terran\\main.cpp",
+              "RelativeToolTip": "..\\Terran\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T09:44:57.847Z",
               "EditorCaption": ""
             }
           ]
